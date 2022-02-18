@@ -1,0 +1,6 @@
+# 체크포인트 
+*.ipynb_checkpoints
+
+# ignore dataset upload 
+data/*.csv
+
